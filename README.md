@@ -1,6 +1,5 @@
 # Mock-Portfolio
 A series of three portfolios for use.
-# Animus Match
 * Live Demo: __https://mock-portfolio.andrewly.dev/__
 
 ![](mockportfolio.gif)
